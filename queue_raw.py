@@ -85,6 +85,3 @@ while node.next != None:
     node= node.next
 print(node.data)
 '''
-
-#The professor changed this files and added one sort of __str__ method
-# Does anyone have it ? 
