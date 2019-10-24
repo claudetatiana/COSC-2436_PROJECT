@@ -7,7 +7,7 @@ hierachy = queue()
 hierachy.push("Employee")
 hierachy.push("Manager ")
 hierachy.push("Senior Manager")
-hierachy.push("Director ")
+hierachy.push("Director ") 
 hierachy.push("Vice President")
 hierachy.push("President")
 
