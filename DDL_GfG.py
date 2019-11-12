@@ -98,6 +98,8 @@ class DoublyLinkedList:
 
 	# This function prints contents of linked list 
 	# starting from the given node 
+	def getData(self, node):
+		return (self.head)
 	def printList(self, node): 
 
 		print ("\nTraversal in forward direction")
